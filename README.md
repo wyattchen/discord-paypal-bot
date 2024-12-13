@@ -10,6 +10,6 @@ Setup:
 
    (If you would like to run this bot in paypal production, please update payment_url and access_token_url in jshelpers.py to paypal production urls)
 2. Install requirements
-   pip install -r requirements.txt
+   ```pip install -r requirements.txt```
 3. Start the bot
-   python3 main.py
+   ```python3 main.py```
